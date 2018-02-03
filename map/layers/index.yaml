@@ -27,8 +27,19 @@ groups:
   - name: 地理名称
     display: true
     layers:
-    - images:
-      - path: map/layers/layer_default/min/geo_names.svg
+    - zoom:
+        lte: 3
+      images:
+      - path: map/layers/layer_default/min/high.svg
+        width:  2500
+        height: 1251
+        offset:
+          x: 0
+          y: 0
+    - zoom:
+        lte: 9
+      images:
+      - path: map/layers/layer_default/min/low.svg
         width:  2500
         height: 1251
         offset:
