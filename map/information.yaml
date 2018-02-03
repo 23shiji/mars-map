@@ -1,10 +1,10 @@
-title: Yipolis Republic
+title: 火星地图 -- 2218版
 copyright: © 2018-2218 Yipolis Online 1.0 BETA
 menu:
   - type:   user
     name:   火星
     desc:   太阳系第四行星、人类殖民地
-    face:   map/images/logo.svg
+    face:   map/images/logo.png
     bg:     map/images/bg.jpg
 
   - type:   action
