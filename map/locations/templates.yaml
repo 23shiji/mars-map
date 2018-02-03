@@ -1,0 +1,12 @@
+cn_city: # 模板名
+  pin: cn_city # 表签名 标签信息见 map/icons/index.yaml
+  tags: [中国殖民地]
+  desc: map/locations/descriptions/cn_city.md
+us_city: # 模板名
+  pin: us_city # 表签名 标签信息见 map/icons/index.yaml
+  tags: [美联殖民地]
+  desc: map/locations/descriptions/naf_city.md
+eu_city: # 模板名
+  pin: eu_city # 表签名 标签信息见 map/icons/index.yaml
+  tags: [欧罗巴殖民地]
+  desc: map/locations/descriptions/eu_city.md

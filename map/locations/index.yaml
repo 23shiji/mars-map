@@ -1,0 +1,516 @@
+---
+- name: 甘泉寨
+  pos:
+    lng: -94.98672
+    lat: 2.7312215827338093
+  template: cn_city
+- name: 宝鼎
+  pos:
+    lng: -88.66439711999999
+    lat: 7.913958273381311
+  template: cn_city
+- name: 岚州
+  pos:
+    lng: -102.18773088
+    lat: -2.4112230215827424
+  template: cn_city
+- name: 儒邑
+  pos:
+    lng: -92.683152
+    lat: -10.06446043165468
+  template: cn_city
+- name: 荆邑（军屯）
+  pos:
+    lng: -108.27144144
+    lat: -17.651653237410073
+  template: cn_city
+- name: 冯翊
+  pos:
+    lng: -92.96193168
+    lat: -27.469785611510794
+  template: cn_city
+- name: 弘农
+  pos:
+    lng: -103.96741968
+    lat: 0.6933769784172625
+  template: cn_city
+- name: 钜鹿
+  pos:
+    lng: -98.76715200000001
+    lat: 16.753096402877702
+  template: cn_city
+- name: 永伦
+  pos:
+    lng: -105.78081456
+    lat: 24.29323884892088
+  template: cn_city
+- name: 褒城
+  pos:
+    lng: -76.30804656000001
+    lat: -2.4112230215827424
+  template: cn_city
+- name: 新邑
+  pos:
+    lng: -140.82912
+    lat: 22.849352517985608
+  template: cn_city
+- name: 乾邑
+  pos:
+    lng: -125.11008144
+    lat: 31.782735251798556
+  template: cn_city
+- name: 富邑
+  pos:
+    lng: -130.72665744
+    lat: -12.916119424460419
+  template: cn_city
+- name: 上洛（军屯）
+  pos:
+    lng: -44.279858880000006
+    lat: 64.71841726618703
+  template: cn_city
+- name: 通义塞
+  pos:
+    lng: 4.30401599999999
+    lat: 59.175395683453246
+  template: cn_city
+- name: 寻阳
+  pos:
+    lng: -10.435392000000007
+    lat: 65.5208633093525
+  template: cn_city
+- name: 辰州
+  pos:
+    lng: -23.886144
+    lat: 69.53856115107914
+  template: cn_city
+- name: 乌邑
+  pos:
+    lng: -0.7339680000000044
+    lat: 47.3438820143885
+  template: cn_city
+- name: 马邑
+  pos:
+    lng: 9.171345600000024
+    lat: 64.89107913669062
+  template: cn_city
+- name: 瀛邑
+  pos:
+    lng: 44.490398400000004
+    lat: 0.43453525179856456
+  template: cn_city
+- name: 建衡（军屯）
+  pos:
+    lng: 49.67870400000001
+    lat: 16.180287769784172
+  template: cn_city
+- name: 绍邑
+  pos:
+    lng: 60.93014400000001
+    lat: 12.138128057553956
+  template: cn_city
+- name: 沅邑
+  pos:
+    lng: 44.097984
+    lat: 4.556692086330941
+  template: cn_city
+- name: 乾邑
+  pos:
+    lng: 41.261184000000014
+    lat: 12.940146762589947
+  template: cn_city
+- name: 汉嘉
+  pos:
+    lng: 41.53996799999999
+    lat: 20.176256115107904
+  template: cn_city
+- name: 下邑
+  pos:
+    lng: 49.67870400000001
+    lat: 21.512802877697823
+  template: cn_city
+- name: 海康（军屯）
+  pos:
+    lng: -25.765056000000016
+    lat: 51.87136402877698
+  template: cn_city
+- name: 溢乐
+  pos:
+    lng: -61.272430560000004
+    lat: 61.30374100719425
+  template: cn_city
+- name: 宣德
+  pos:
+    lng: -64.90901088
+    lat: 41.223882014388494
+  template: cn_city
+- name: 广济
+  pos:
+    lng: -46.43740656
+    lat: 60.43453237410071
+  template: cn_city
+- name: 庆祚
+  pos:
+    lng: -34.756703999999985
+    lat: 57.227194244604334
+  template: cn_city
+- name: 瑕丘
+  pos:
+    lng: -84.99931344000001
+    lat: 58.83007194244604
+  template: cn_city
+- name: 静戎
+  pos:
+    lng: -54.359858880000004
+    lat: 33.32733812949641
+  template: cn_city
+- name: 狄道塞
+  pos:
+    lng: -131.07168000000001
+    lat: 64.71812949640287
+  template: cn_city
+- name: 苏三
+  pos:
+    lng: -88.808976
+    lat: 53.716689208633085
+  template: cn_city
+- name: 汝宁
+  pos:
+    lng: -80.12591856
+    lat: 51.047336690647484
+  template: cn_city
+- name: 广信
+  pos:
+    lng: -62.385407999999984
+    lat: 48.79482014388489
+  template: cn_city
+- name: 归德
+  pos:
+    lng: -109.35014544
+    lat: 14.55554100719425
+  template: cn_city
+- name: 钟离
+  pos:
+    lng: -120.26188944
+    lat: 14.72834532374101
+  template: cn_city
+- name: 敬丘
+  pos:
+    lng: -127.78891200000001
+    lat: 18.00086618705035
+  template: cn_city
+- name: 鄜州
+  pos:
+    lng: -132.150384
+    lat: 10.456833093525177
+  template: cn_city
+- name: 驷望（军屯）
+  pos:
+    lng: -125.38886399999998
+    lat: 3.2412949640287962
+  template: cn_city
+- name: 湿沃
+  pos:
+    lng: -123.741936
+    lat: -23.264458992805757
+  template: cn_city
+- name: 桃林塞
+  pos:
+    lng: -120.50423856
+    lat: -19.700286330935256
+  template: cn_city
+- name: 幽州（军屯）
+  pos:
+    lng: -74.05243055999999
+    lat: 2.903886330935265
+  template: cn_city
+- name: 鹰堡<br/>Fort Hawk
+  pos:
+    lng: -86.07816143999999
+    lat: 33.02172374100721
+  template: us_city
+- name: 盎格鲁兰<br/>Anglesland
+  pos:
+    lng: -70.84785600000001
+    lat: 25.88129496402877
+  template: us_city
+- name: 希望市<br/>Hopeland
+  pos:
+    lng: -91.338192
+    lat: 27.497697841726634
+  template: us_city
+- name: 哥伦布维尔<br/>Columbusville
+  pos:
+    lng: -113.65675056
+    lat: 18.892374100719422
+  template: us_city
+- name: 十三所<br/>Vault 13
+  pos:
+    lng: -131.350464
+    lat: 23.651510791366917
+  template: us_city
+- name: 新里士满<br/>New Richmond
+  pos:
+    lng: -148.577328
+    lat: 18.258417266187053
+  template: us_city
+- name: 沃金斯堡<br/>Watkinsburg
+  pos:
+    lng: -129.647808
+    lat: -7.9257525179856145
+  template: us_city
+- name: 秋野<br/>Fallfield
+  pos:
+    lng: -110.428848
+    lat: -13.545615827338125
+  template: us_city
+- name: 圣韦恩<br/>Saint Wayne
+  pos:
+    lng: -102.466512
+    lat: -24.446762589928056
+  template: us_city
+- name: 强尼堡<br/>Fort Johnny
+  pos:
+    lng: -107.19259344
+    lat: -39.62676402877697
+  template: us_city
+- name: 新湾<br/>New Bay
+  pos:
+    lng: -91.23277968
+    lat: -42.3433107913669
+  template: us_city
+- name: 高曼港<br/>Goldmanhaven
+  pos:
+    lng: -140.02919856
+    lat: -38.82445899280576
+  template: us_city
+- name: 海伍德丘<br/>Haywood Hill
+  pos:
+    lng: -169.900415712
+    lat: 33.82388345323743
+  template: us_city
+- name: 堪萨斯顿<br/>Kansaston
+  pos:
+    lng: -157.658832
+    lat: 45.74029064748203
+  template: us_city
+- name: 里诺兰<br/>Renoland
+  pos:
+    lng: -115.25673744
+    lat: 64.71841726618703
+  template: us_city
+- name: 野牛堡<br/>Fort Bison
+  pos:
+    lng: -154.002672
+    lat: 62.10589928057553
+  template: us_city
+- name: 俄勒冈维尔<br/>Oreganville
+  pos:
+    lng: -119.904912
+    lat: -3.0130906474820023
+  template: us_city
+- name: 扬基波利斯<br/>Yankeepolis
+  pos:
+    lng: -27.746654399999983
+    lat: 37.17352805755395
+  template: us_city
+- name: 蔚蓝城<br/>Azureville
+  pos:
+    lng: -75.786768
+    lat: 14.63539568345324
+  template: us_city
+- name: 古德曼顿<br/>Goodmanton
+  pos:
+    lng: -59.16024288
+    lat: 17.456116546762587
+  template: us_city
+- name: 新昆西<br/>New Quincy
+  pos:
+    lng: -90.15408144
+    lat: 16.465326618705035
+  template: us_city
+- name: 凯利堡<br/>Careyburg
+  pos:
+    lng: 15.948575999999974
+    lat: 45.24287625899282
+  template: us_city
+- name: 加拿大拱<br/>Canadian Dome
+  pos:
+    lng: 118.14148800000004
+    lat: 53.14475107913668
+  template: us_city
+- name: 新温哥华<br/>New Vancouver
+  pos:
+    lng: 102.21249599999999
+    lat: 26.020287769784176
+  template: us_city
+- name: 布什福德<br/>Bushford
+  pos:
+    lng: 160.462224
+    lat: 36.07712517985611
+  template: us_city
+- name: 新乡<br/>New Country
+  pos:
+    lng: -6.053903999999989
+    lat: 41.03539568345326
+  template: us_city
+- name: 布雷克斯维尔<br/>Breakersville
+  pos:
+    lng: 54.891504000000026
+    lat: -6.360715107913663
+  template: us_city
+- name: 枫叶堡<br/>Mapleburg
+  pos:
+    lng: 32.15044800000001
+    lat: 5.892808633093523
+  template: us_city
+- name: 布鲁斯特维尔<br/>Blueshitville
+  pos:
+    lng: 58.724496000000016
+    lat: 5.358992805755392
+  template: us_city
+- name: 新休斯顿<br/>New Houston
+  pos:
+    lng: -19.534751999999997
+    lat: 60.16647482014389
+  template: us_city
+- name: 孤星堡<br/>Fort Lonestar
+  pos:
+    lng: -75.98174399999999
+    lat: 64.52992805755395
+  template: us_city
+- name: 安东尼奥波利斯<br/>Antoniopolis
+  pos:
+    lng: -114.17803488
+    lat: 33.32733812949641
+  template: us_city
+- name: 旧加州<br/>Old California
+  pos:
+    lng: -165.426048
+    lat: 23.302300719424466
+  template: us_city
+- name: 塞琉西亚<br/>Seleucia
+  pos:
+    lng: -149.377392
+    lat: 32.585176978417266
+  template: eu_city
+- name: 喀罗尼亚<br/>Chaeronea
+  pos:
+    lng: -151.923024
+    lat: 52.91452949640288
+  template: eu_city
+- name: 狄奥多西<br/>Diadochoi
+  pos:
+    lng: -95.544288
+    lat: 41.3968345323741
+  template: eu_city
+- name: 德尔斐<br/>Delphi
+  pos:
+    lng: -91.23292944
+    lat: 70.73597122302158
+  template: eu_city
+- name: 拜占庭<br/>Byzantium
+  pos:
+    lng: -62.925117119999996
+    lat: 8.18532374100721
+  template: eu_city
+- name: 皮奥夏<br/>Boiotia
+  pos:
+    lng: -94.18680144
+    lat: 11.258562589928061
+  template: eu_city
+- name: 迈锡尼<br/>Mycenae
+  pos:
+    lng: -31.787136000000004
+    lat: 28.925464748201435
+  template: eu_city
+- name: 斯巴达<br/>Sparta
+  pos:
+    lng: 6.2316000000000145
+    lat: 53.1979870503597
+  template: eu_city
+- name: 色雷斯<br/>Thrace
+  pos:
+    lng: 23.205887999999987
+    lat: 55.625035971223014
+  template: eu_city
+- name: 赫利奥波利斯<br/>Heliopolis
+  pos:
+    lng: 90.94089600000001
+    lat: 67.83223021582734
+  template: eu_city
+- name: 亚该亚<br/>Achaea
+  pos:
+    lng: 24.284592000000004
+    lat: 10.709640287769773
+  template: eu_city
+- name: 马拉松<br/>Marathon
+  pos:
+    lng: -50.373501120000014
+    lat: 27.220572661870506
+  template: eu_city
+- name: 科林西亚<br/>Corinthia
+  pos:
+    lng: 75.26880000000003
+    lat: 11.335827338129505
+  template: eu_city
+- name: 阿戈利斯<br/>Argolis
+  pos:
+    lng: 69.58123200000003
+    lat: 0.08517697841728022
+  template: eu_city
+- name: 奈阿波利斯<br/>Neapolis
+  pos:
+    lng: -88.530192
+    lat: 22.104748201438852
+  template: eu_city
+- name: 伊庇鲁斯<br/>Epirus
+  pos:
+    lng: -95.26550112
+    lat: -6.844894964028768
+  template: eu_city
+- name: 迦太基<br/>Carthage
+  pos:
+    lng: -75.786768
+    lat: -25.783020143884883
+  template: eu_city
+- name: 维爱<br/>Veii
+  pos:
+    lng: -121.899744
+    lat: -15.4224417266187
+  template: eu_city
+- name: 拉古萨<br/>Ragusina
+  pos:
+    lng: -96.62313888
+    lat: -15.4224417266187
+  template: eu_city
+- name: 希波勒吉斯<br/>Hippo Regius
+  pos:
+    lng: -114.736896
+    lat: -30.064460431654673
+  template: eu_city
+- name: 佩拉<br/>Pella
+  pos:
+    lng: -93.907872
+    lat: -34.25064604316546
+  template: eu_city
+- name: 西锡安<br/>Sicyon
+  pos:
+    lng: -137.63232
+    lat: 29.72762446043164
+  template: eu_city
+- name: 萨第斯<br/>Sadis
+  pos:
+    lng: -122.42087856
+    lat: 21.121870503597123
+  template: eu_city
+- name: 塔尔奎尼<br/>Tarquinii
+  pos:
+    lng: -138.95035344000001
+    lat: 4.067628776978424
+  template: eu_city
+- name: 克卢西乌姆<br/>Clusium
+  pos:
+    lng: -140.55033744
+    lat: 13.564602877697837
+  template: eu_city

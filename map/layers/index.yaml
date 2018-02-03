@@ -1,0 +1,36 @@
+map:
+  radius: 3390000
+  width: 2500
+  height: 1251
+  center: 
+    x: 1250
+    y: 635
+  loc:
+    lat:
+      from:  -90
+      to:     90
+    lng:
+      from: -180
+      to:    180
+  view_zoom: 1.0
+groups:
+  - name: 地形图
+    display: true
+    layers:
+    - images:
+      - path: map/layers/layer_default/min/base.svg
+        width:  2500
+        height: 1251
+        offset:
+          x: 0
+          y: 0
+  - name: 地理名称
+    display: true
+    layers:
+    - images:
+      - path: map/layers/layer_default/min/geo_names.svg
+        width:  2500
+        height: 1251
+        offset:
+          x: 0
+          y: 0

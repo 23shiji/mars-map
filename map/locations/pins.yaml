@@ -1,0 +1,79 @@
+cn_city:
+  icon:
+    path: map/locations/icons/cn_city.png
+    width:  20
+    height: 20
+    offset:
+      x: -10
+      y: -10
+    style: ''
+  label:
+    offset: 
+      x: +12
+      y: -12
+    width: 100 # px
+    style: '
+      text-align: left;
+      
+      color: white; 
+      text-shadow: 
+        +1px +1px 0 #757575, 
+        -1px -1px 0 #757575,
+        +1px -1px 0 #757575,
+        -1px +1px 0 #757575
+        ;'
+eu_city:
+  icon:
+    path: map/locations/icons/eu_city.png
+    width:  20
+    height: 20
+    offset:
+      x: -10
+      y: -10
+    style: ''
+  label:
+    offset: 
+      x: +12
+      y: -12
+    width: 100 # px
+    style: '
+      text-align: left;
+      
+      color: white; 
+      text-shadow: 
+        +1px +1px 0 #757575, 
+        -1px -1px 0 #757575,
+        +1px -1px 0 #757575,
+        -1px +1px 0 #757575
+        ;'
+us_city:
+  icon:
+    path: map/locations/icons/us_city.png
+    width:  20
+    height: 20
+    offset:
+      x: -10
+      y: -10
+    style: ''
+  label:
+    offset: 
+      x: +12
+      y: -12
+    width: 100 # px
+    style: '
+      text-align: left;
+      
+      color: white; 
+      text-shadow: 
+        +1px +1px 0 #757575, 
+        -1px -1px 0 #757575,
+        +1px -1px 0 #757575,
+        -1px +1px 0 #757575
+        ;'
+geo:
+  label:
+    offset: 
+      x: -40
+      y: 0
+    width: 80 # px
+    style: "color: white;"
